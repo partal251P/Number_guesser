@@ -1,6 +1,3 @@
-"""
-time : 40 min
-"""
 import random as r
 
 class Game():
